@@ -1,0 +1,10 @@
+D:\Workspaces\netcore\myhelloappservice\bin\Debug\netcoreapp2.0\myhelloappservice.deps.json
+D:\Workspaces\netcore\myhelloappservice\bin\Debug\netcoreapp2.0\myhelloappservice.runtimeconfig.json
+D:\Workspaces\netcore\myhelloappservice\bin\Debug\netcoreapp2.0\myhelloappservice.runtimeconfig.dev.json
+D:\Workspaces\netcore\myhelloappservice\bin\Debug\netcoreapp2.0\myhelloappservice.dll
+D:\Workspaces\netcore\myhelloappservice\bin\Debug\netcoreapp2.0\myhelloappservice.pdb
+D:\Workspaces\netcore\myhelloappservice\obj\Debug\netcoreapp2.0\myhelloappservice.csproj.CoreCompileInputs.cache
+D:\Workspaces\netcore\myhelloappservice\obj\Debug\netcoreapp2.0\myhelloappservice.AssemblyInfoInputs.cache
+D:\Workspaces\netcore\myhelloappservice\obj\Debug\netcoreapp2.0\myhelloappservice.AssemblyInfo.cs
+D:\Workspaces\netcore\myhelloappservice\obj\Debug\netcoreapp2.0\myhelloappservice.dll
+D:\Workspaces\netcore\myhelloappservice\obj\Debug\netcoreapp2.0\myhelloappservice.pdb
